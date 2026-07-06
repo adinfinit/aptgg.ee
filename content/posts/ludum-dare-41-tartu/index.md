@@ -32,7 +32,7 @@ You are a farmer infected by the dancing plague. The farm still needs to be mana
 
 ![IMG_2597](/app/uploads/2018/05/IMG_2597.webp)
 
-[Date Night Fight Night (III place)](https://apt-vote.appspot.com/event/ld41/team/5639274879778816) Challenge you and your friend by trying to feed your date more than they can feed you!
+[Date Night Fight Night (III place)](https://jamvote.ee/event/ld41/team/5639274879778816) Challenge you and your friend by trying to feed your date more than they can feed you!
 
 ![IMG_2537](/app/uploads/2018/05/IMG_2537.webp)
 
@@ -40,7 +40,7 @@ You are a farmer infected by the dancing plague. The farm still needs to be mana
 
 ![IMG_2490](/app/uploads/2018/05/IMG_2490.webp)
 
-[UNBEHEADED MONARCHS](https://apt-vote.appspot.com/event/ld41/team/5707702298738688)
+[UNBEHEADED MONARCHS](https://jamvote.ee/event/ld41/team/5707702298738688)
 
 ![IMG_2510](/app/uploads/2018/05/IMG_2510.webp)
 
@@ -48,31 +48,31 @@ You are a farmer infected by the dancing plague. The farm still needs to be mana
 
 ![IMG_2342](/app/uploads/2018/05/IMG_2342.webp)
 
-[Pactris](https://apt-vote.appspot.com/event/ld41/team/5750085036015616) / [Dance dance kill](https://apt-vote.appspot.com/event/ld41/team/5105650963054592)
+[Pactris](https://jamvote.ee/event/ld41/team/5750085036015616) / [Dance dance kill](https://jamvote.ee/event/ld41/team/5105650963054592)
 
 ![IMG_2509](/app/uploads/2018/05/IMG_2509.webp)
 
-[Valdur](https://apt-vote.appspot.com/event/ld41/team/5724160613416960)
+[Valdur](https://jamvote.ee/event/ld41/team/5724160613416960)
 
 ![IMG_2499](/app/uploads/2018/05/IMG_2499.webp)
 
-[Fighting Deconstruction Extreme](https://apt-vote.appspot.com/event/ld41/team/5685265389584384)
+[Fighting Deconstruction Extreme](https://jamvote.ee/event/ld41/team/5685265389584384)
 
 ![IMG_2495](/app/uploads/2018/05/IMG_2495.webp)
 
-[Monday simulator](https://apt-vote.appspot.com/event/ld41/team/5717271485874176)
+[Monday simulator](https://jamvote.ee/event/ld41/team/5717271485874176)
 
 ![IMG_2489](/app/uploads/2018/05/IMG_2489.webp)
 
-[Tindler's List](https://apt-vote.appspot.com/event/ld41/team/5676830073815040)
+[Tindler's List](https://jamvote.ee/event/ld41/team/5676830073815040)
 
 ![IMG_2424](/app/uploads/2018/05/IMG_2424.webp)
 
-[Memedieval](https://apt-vote.appspot.com/event/ld41/team/5757334940811264)
+[Memedieval](https://jamvote.ee/event/ld41/team/5757334940811264)
 
 ![IMG_2496](/app/uploads/2018/05/IMG_2496.webp)
 
-More results of our local voting can be found here: [https://apt-vote.appspot.com/event/ld41/results](https://apt-vote.appspot.com/event/ld41/results)
+More results of our local voting can be found here: [https://jamvote.ee/event/ld41/results](https://jamvote.ee/event/ld41/results)
 
 And the winners of the Mortal Kombat mini tourament were: Rudolfs, Rein and Taavi
 

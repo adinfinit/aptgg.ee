@@ -30,7 +30,7 @@ Here are the 10 teams and their games!
 
 Recipe of immortality is in the sights of this butcher! Unfortunately the butcher has many trials to face in order to actually get all the ingredients.
 
-[https://ldjam.com/events/ludum-dare/40/$55659](https://ldjam.com/events/ludum-dare/40/$55659) [https://apt-vote.appspot.com/event/ld40/team/5717271485874176](https://apt-vote.appspot.com/event/ld40/team/5717271485874176)
+[https://ldjam.com/events/ludum-dare/40/$55659](https://ldjam.com/events/ludum-dare/40/$55659) [https://jamvote.ee/event/ld40/team/5717271485874176](https://jamvote.ee/event/ld40/team/5717271485874176)
 
 ### [Doomsday Lovers!](https://ldjam.com/events/ludum-dare/40/$65961) _By Ivars Bergs, Sīmanis Mikoss, Valdis Danilevics, Liene Strunke_
 
@@ -38,7 +38,7 @@ Recipe of immortality is in the sights of this butcher! Unfortunately the butche
 
 Only 7 days until Doomsday? That is no problem for Chad, as he already has a plan! Guide Chad to acquire as many lovers as possible until the fated day, so that he does not have to die alone.
 
-[https://ldjam.com/events/ludum-dare/40/$65961](https://ldjam.com/events/ludum-dare/40/$65961) [https://apt-vote.appspot.com/event/ld40/team/5733935958982656](https://apt-vote.appspot.com/event/ld40/team/5733935958982656)
+[https://ldjam.com/events/ludum-dare/40/$65961](https://ldjam.com/events/ludum-dare/40/$65961) [https://jamvote.ee/event/ld40/team/5733935958982656](https://jamvote.ee/event/ld40/team/5733935958982656)
 
 ### [the Disease Crawleth](https://ldjam.com/events/ludum-dare/40/$65972) _By Diana Algma, Marko Täht, Fredy Schmidt, Martin Viidik, Ave Kodar, Triin Liira_
 
@@ -46,7 +46,7 @@ Only 7 days until Doomsday? That is no problem for Chad, as he already has a pla
 
 Life in medieval times was not always fun and games. Often it was dysentery instead! Crawl your way through the dungeons filled with rats and mosquitoes, while battling a countless numbers of de-buffs. To make matters worse, you do not even know if the princess is in this or another castle.
 
-[https://ldjam.com/events/ludum-dare/40/$65972](https://ldjam.com/events/ludum-dare/40/$65972) [https://apt-vote.appspot.com/event/ld40/team/5757334940811264](https://apt-vote.appspot.com/event/ld40/team/5757334940811264)
+[https://ldjam.com/events/ludum-dare/40/$65972](https://ldjam.com/events/ludum-dare/40/$65972) [https://jamvote.ee/event/ld40/team/5757334940811264](https://jamvote.ee/event/ld40/team/5757334940811264)
 
 ### [Embrace Space](https://ldjam.com/events/ludum-dare/40/$65902) _By Daniel Nael, Ott Saar, Raigo Kõvask, Martin Laidma, Jazeps Rutkis_
 
@@ -54,7 +54,7 @@ Life in medieval times was not always fun and games. Often it was dysentery inst
 
 You think guns are fun? Think again! Shooting the gun here is a matter of survival, as it will explode otherwise! Unfortunately shooting in the wrong direction will destroy the platforms you need to reach the end of this game. Now featuring many different power ups and a Christmas suit!
 
-[https://ldjam.com/events/ludum-dare/40/$65902](https://ldjam.com/events/ludum-dare/40/$65902) [https://apt-vote.appspot.com/event/ld40/team/5685265389584384](https://apt-vote.appspot.com/event/ld40/team/5685265389584384)
+[https://ldjam.com/events/ludum-dare/40/$65902](https://ldjam.com/events/ludum-dare/40/$65902) [https://jamvote.ee/event/ld40/team/5685265389584384](https://jamvote.ee/event/ld40/team/5685265389584384)
 
 ### [DTL (Dumber Than Light)](https://ldjam.com/events/ludum-dare/40/$66023) _By Andres Kalle, Hiie-Helen Raju, Jürmo Mehine, Ivo Voika, Reimo Luik, Dan Bondarenko_
 
@@ -62,7 +62,7 @@ You think guns are fun? Think again! Shooting the gun here is a matter of surviv
 
 Everything is in absolute harmony in the universe. Until the humans show up and start opening suspicious e-mail attachments on your space ship terminals. Place traps, kittens and sheep to keep the humans at bay. When they get too close, use a neutralizer device attached to every ship console.
 
-[https://ldjam.com/events/ludum-dare/40/$66023](https://ldjam.com/events/ludum-dare/40/$66023) [https://apt-vote.appspot.com/event/ld40/team/5724160613416960](https://apt-vote.appspot.com/event/ld40/team/5724160613416960)
+[https://ldjam.com/events/ludum-dare/40/$66023](https://ldjam.com/events/ludum-dare/40/$66023) [https://jamvote.ee/event/ld40/team/5724160613416960](https://jamvote.ee/event/ld40/team/5724160613416960)
 
 ### [SWEG Not Fast](https://ldjam.com/events/ludum-dare/40/$55120) _By Māris Mežpaps, Jānis Gitendorfs, Eric Lismanis_
 
@@ -70,7 +70,7 @@ Everything is in absolute harmony in the universe. Until the humans show up and 
 
 It is not easy, when you have a basket for a head. Especially, when someone is firing cannons at you. Try to survive as much as possible on these very unstable platforms. The heavier you are, the faster you'll fall.
 
-[https://ldjam.com/events/ludum-dare/40/$55120](https://ldjam.com/events/ludum-dare/40/$55120) [https://apt-vote.appspot.com/event/ld40/team/5693417237512192](https://apt-vote.appspot.com/event/ld40/team/5693417237512192)
+[https://ldjam.com/events/ludum-dare/40/$55120](https://ldjam.com/events/ludum-dare/40/$55120) [https://jamvote.ee/event/ld40/team/5693417237512192](https://jamvote.ee/event/ld40/team/5693417237512192)
 
 ### [Disco Warriors](https://ldjam.com/events/ludum-dare/40/$58065) _By Leene Künnap, Mikk Pristavka, Reimo Rebane, Silver Kontus, Tiit Pikma, Aare Undo_
 
@@ -78,7 +78,7 @@ It is not easy, when you have a basket for a head. Especially, when someone is f
 
 Dance the night away in a catchy disco beat with several disco friends. Make sure not to miss any disco beats though. When the morning dawns, you have to face off the disco boss, who is challenging your hard earned groove!
 
-[https://ldjam.com/events/ludum-dare/40/$58065](https://ldjam.com/events/ludum-dare/40/$58065) [https://apt-vote.appspot.com/event/ld40/team/5750085036015616](https://apt-vote.appspot.com/event/ld40/team/5750085036015616)
+[https://ldjam.com/events/ludum-dare/40/$58065](https://ldjam.com/events/ludum-dare/40/$58065) [https://jamvote.ee/event/ld40/team/5750085036015616](https://jamvote.ee/event/ld40/team/5750085036015616)
 
 ### [Catdventure (III place)](https://ldjam.com/events/ludum-dare/40/catdventure) _By Andreas Ragen Ayal, Tiina Kuura, Silver Laius, Stiven Vesi, Aleksandra Leesment_
 
@@ -86,7 +86,7 @@ Dance the night away in a catchy disco beat with several disco friends. Make sur
 
 It is not easy being a cat. Especially when you have numerous kittens to guide home and an overly bouncy couch on the way there. Picking the little furballs up helps, but not for long as the kittens just wanna have fun!
 
-[https://ldjam.com/events/ludum-dare/40/catdventure](https://ldjam.com/events/ludum-dare/40/catdventure) [https://apt-vote.appspot.com/event/ld40/team/5676830073815040](https://apt-vote.appspot.com/event/ld40/team/5676830073815040)
+[https://ldjam.com/events/ludum-dare/40/catdventure](https://ldjam.com/events/ludum-dare/40/catdventure) [https://jamvote.ee/event/ld40/team/5676830073815040](https://jamvote.ee/event/ld40/team/5676830073815040)
 
 ### [Bunny Mayhem Simulator (II place)](https://ldjam.com/events/ludum-dare/40/$65999) _By Joosep Jääger, Ott Adermann, Jaanus Jaggo, Tuuli Neerot, Siim Raudsepp, Silver Kirotar_
 
@@ -94,7 +94,7 @@ It is not easy being a cat. Especially when you have numerous kittens to guide h
 
 Exponential growth is nothing to joke about, especially when we are dealing with bunnies. Cute at first, but the situation is easy to lose grasp of. Use different strategies like throwing unnecessary bunnies off the cliff or turning them into demon bunnies in the swamp. There are also several bunny-puzzles hidden throughout the gameplay and you can build your own bunny farm!
 
-[https://ldjam.com/events/ludum-dare/40/$65999](https://ldjam.com/events/ludum-dare/40/$65999) [https://apt-vote.appspot.com/event/ld40/team/5639274879778816](https://apt-vote.appspot.com/event/ld40/team/5639274879778816)
+[https://ldjam.com/events/ludum-dare/40/$65999](https://ldjam.com/events/ludum-dare/40/$65999) [https://jamvote.ee/event/ld40/team/5639274879778816](https://jamvote.ee/event/ld40/team/5639274879778816)
 
 ### [Get to the CHOPPA! (I place)](https://ldjam.com/events/ludum-dare/40/$62459) _By Sercan Altundas, Shalva Avanashvili, Ģirts Ķesteris_
 
@@ -102,6 +102,6 @@ Exponential growth is nothing to joke about, especially when we are dealing with
 
 Nicholases have been caged and it is your job to decide who will live or die! Battle the Predator hordes as Arnold and save as many caged Nicholases on the way as you can. Or not. Does not really matter as long as you get to the CHOPPA! Beware of exploding coconuts, though.
 
-[https://ldjam.com/events/ludum-dare/40/$62459](https://ldjam.com/events/ludum-dare/40/$62459) [https://apt-vote.appspot.com/event/ld40/team/5657382461898752](https://apt-vote.appspot.com/event/ld40/team/5657382461898752)
+[https://ldjam.com/events/ludum-dare/40/$62459](https://ldjam.com/events/ludum-dare/40/$62459) [https://jamvote.ee/event/ld40/team/5657382461898752](https://jamvote.ee/event/ld40/team/5657382461898752)
 
 Thanks to all the jammers and supporters of the event!

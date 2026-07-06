@@ -19,7 +19,7 @@ Global Game Jam 2018 happened 26-28 January. We ate humongous amount of pizza (
 This was also the 10th anniversary of GGJ and all over the world, 42,800 jammers made 8,606 games in 108 countries.
 
 We also did local voting and this time games got 400 votes (it was 250 last time).
-[http://voting.aptgg.ee](https://apt-vote.appspot.com/event/ggj2018/teams) <== You can go and play all the games through this link and see the voting results. Winners of local voting were....
+[http://voting.aptgg.ee](https://jamvote.ee/event/ggj2018/teams) <== You can go and play all the games through this link and see the voting results. Winners of local voting were....
 
 ### [Team Cleanbud:  Wololo Me Tender (III place)](https://globalgamejam.org/2018/games/wololo-me-tender)
 
