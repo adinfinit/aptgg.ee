@@ -1,7 +1,7 @@
 baseURL: https://aptgg.ee
 relativeURLs: true
 languageCode: en-US
-title: ""
+title: APT Game Generator
 theme: PaperMod
 taxonomies:
   category: categories
@@ -11,6 +11,10 @@ permalinks:
     categories: /category/:slug/
     tags: /tag/:slug/
 params:
+  label:
+    text: APT Game Generator
+    icon: /logo.png
+    iconHeight: 36
   description: Game development organization in Tartu, Estonia.
   defaultTheme: dark
   disableThemeToggle: true
