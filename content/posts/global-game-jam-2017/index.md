@@ -103,7 +103,10 @@ A third-person adventure game about sharing knowledge. Player controls a small c
 Big thanks to all the jammers, who made all those wonderful games!
 
 **Photo galleries:**
-Day 1: [http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-day-1.html](http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-day-1.html)
-Day 3: [http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-2201.html](http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-2201.html) **Articles:**
+
+- Day 1: [http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-day-1.html](http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-day-1.html)
+- Day 3: [http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-2201.html](http://huntlus.blogspot.com.ee/2017/01/global-game-jam-2017-2201.html)
+
+**Articles:**
 
 - [http://www.pedagogicum.ut.ee/et/projektid/oppemangude-arendusmaraton](http://www.pedagogicum.ut.ee/et/projektid/oppemangude-arendusmaraton)

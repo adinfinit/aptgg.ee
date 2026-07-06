@@ -101,6 +101,10 @@ What could be smaller than your knapsack? In this small world you have to organi
 Thanks to all the jammers for making such cool stuff! We hope you had fun time! :)
 
 **Photo galleries:**
-Day 1: [http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-1.html](http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-1.html)
-Day 4: [http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-4.html](http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-4.html) **Radio:**
-Ring FM talk: [https://www.youtube.com/watch?v=NqUkmDISljI](https://www.youtube.com/watch?v=NqUkmDISljI)
+
+- Day 1: [http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-1.html](http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-1.html)
+- Day 4: [http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-4.html](http://huntlus.blogspot.com.ee/2017/04/ludum-dare-38-day-4.html)
+
+**Radio:**
+
+Ring FM talk: [https://www.youtube.com/watch?v=NqUkmDISljI](https://www.youtube.com/watch?v=NqUkmDISljI)

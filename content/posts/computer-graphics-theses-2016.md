@@ -38,4 +38,6 @@ Thomas was keen on advancing the game development industry in Estonia. Because o
 ### [Programming Patterns in Computer Games Course](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=54337&year=2016) _by Margus Luik_
 
 As games are usually quite code-wise large software projects, programming them neatly is very important. Margus created an entire 3 ECTS credits course do teach just that. In that course many programming / design patterns are covered and students learn how to use them to solve programming problems in a good fashion. Most of the work in the course devised by Margus is done on the same Unity project and in the end students implement several cool features in that game project: movement, command recording and replaying, Snake-game-like following, teleportation, procedural level generation etc. So if you have ever felt like you are not skilled enough in programming to actually develop a larger game, then the course developed during this thesis work might just be for you.
-[Thesis](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=54337&year=2016&language=en)![Programming Patterns in Computer Games by Margus Luik](/app/uploads/2016/06/progpatterns.png)
+[Thesis](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=54337&year=2016&language=en)
+
+![Programming Patterns in Computer Games by Margus Luik](/app/uploads/2016/06/progpatterns.png)

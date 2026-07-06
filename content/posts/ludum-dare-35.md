@@ -45,27 +45,35 @@ Entry won the _Youngest Participant_ prize in our local competition. [Entry](ht
 
 ### [ColOrigami (III Place)](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=92984) _by Team Werechicken_
 
-Third place prize from our local competition went to this beautiful and atmosfpheric game. ColOrigami is an aesthetic adventure of origami creatures in a paper world. Game includes several suprising puzzles in a mix of real world and paper mechanics. [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=92984)![colorigami](/app/uploads/2016/06/colorigami.jpg)
+Third place prize from our local competition went to this beautiful and atmosfpheric game. ColOrigami is an aesthetic adventure of origami creatures in a paper world. Game includes several suprising puzzles in a mix of real world and paper mechanics. [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=92984)
+
+![colorigami](/app/uploads/2016/06/colorigami.jpg)
 Team included great students from the [Tartu Art School](http://www.tartukunstikool.ee/?lang=en) and the [Estonian Entrepreneurship University of Applied Sciences](https://www.euas.eu/).
 ![Local competition 3rd place - ColOrigami](/app/uploads/2016/06/IMG_3859.webp)
 
 ### [Hack\_Switch (II Place)](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=83462) _by Team Anonymous Artists_
 
 The second place was given to Hack\_Switch, an hardcore puzzle-platformer game in a cyberspace setting. Hacker-robot needs to often switch into the hack space world, where the level changes and directions are reversed. Made in Unreal Engine 4 by a team of 3D artists.
-[Download](https://drive.google.com/file/d/0ByaFkgKQjN2mTW5sejJ3U3VtSEU/view) [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=83462)![hack_switch](/app/uploads/2016/06/hack_switch.jpg)
+[Download](https://drive.google.com/file/d/0ByaFkgKQjN2mTW5sejJ3U3VtSEU/view) [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=83462)
+
+![hack_switch](/app/uploads/2016/06/hack_switch.jpg)
 The team comprised of students and educators of the 3D modelling curriculum of [Tartu Art School](http://www.tartukunstikool.ee/?lang=en).
 ![Local competition 2nd place - Hack_Switch](/app/uploads/2016/06/IMG_3882.webp)
 
 ### [Shorn the Sheep (I Place)](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=93007) _by Team Zer0fuqs_
 
-This very humorous puzzle game won our local competition. It is about alians kidnapping sheep in order to power their space ship. The retro-feel of the 90s is conveyed by this game's unique look and computer-generated sound effects. Main gameplay reminds somewhat the Rube Goldberg machine idea popularized by the game [Tim](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)). In here the player also needs to set up the game pieces (dogs, different buildings) in order to direct the sheep and get the most energy out of the situation. [Play](http://mjomble.github.io/shorn-the-sheep/) [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=93007)![shorn](/app/uploads/2016/06/shorn.jpg)
+This very humorous puzzle game won our local competition. It is about alians kidnapping sheep in order to power their space ship. The retro-feel of the 90s is conveyed by this game's unique look and computer-generated sound effects. Main gameplay reminds somewhat the Rube Goldberg machine idea popularized by the game [Tim](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)). In here the player also needs to set up the game pieces (dogs, different buildings) in order to direct the sheep and get the most energy out of the situation. [Play](http://mjomble.github.io/shorn-the-sheep/) [Entry](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=93007)
+
+![shorn](/app/uploads/2016/06/shorn.jpg)
+
 Team consisted of students and graduates from the [University of Tartu](http://www.cs.ut.ee/en) computer science and software engineering curricula and [Tartu Art School](http://www.tartukunstikool.ee/?lang=en) 3D modelling curriculum.
 ![Local competition 1st place - Shorn the Sheep](/app/uploads/2016/06/IMG_3929.webp)
 
-Additional image galleries available:
-Friday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare.html)
-Sunday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35.html)
-Monday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35\_19.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35_19.html)
+**Photo galleries:**
+
+- Friday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare.html)
+- Sunday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35.html)
+- Monday: [http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35\_19.html](http://huntlus.blogspot.com.ee/2016/04/ludum-dare-35_19.html)
 
 Inverview about the event in Re:TV: [https://www.youtube.com/watch?v=HGwkV5neoBg](https://www.youtube.com/watch?v=HGwkV5neoBg)
 

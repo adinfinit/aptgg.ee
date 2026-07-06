@@ -74,8 +74,13 @@ Be a hamster in this giant hamster-wheel. Hamster tries to break out of its cage
 
 This is what happens if Minecraft and Portal meet. The game starts out with a really simple goal: just press one button. As the game advances, the timer to press the button starts go faster and faster. More buttons appear and the player has to create integrate contraptions to keep pushing the buttons in due time. It is amazing how the puzzle elements, GLaDOS-like voice overs, the art style and simple mechanics all come together in this masterpiece. And keep in mind, this was all done in a few days.
 
-![](https://2.bp.blogspot.com/-DP6KM90jbFg/WE8Uyb3xDuI/AAAAAAAAQfI/9-yuyfPEOCQ6b-pWYgG-SbjOZ2aO_rG7gCLcB/s1600/IMG_4722.jpg)**Photo galleries:**
-Day 1: [http://huntlus.blogspot.com.ee/2016/12/ludum-dare-37-day-1.html](http://huntlus.blogspot.com.ee/2016/12/ludum-dare-37-day-1.html)
-Day 4: [http://huntlus.blogspot.com.ee/2016/12/ludum-dare-day-4.html](http://huntlus.blogspot.com.ee/2016/12/ludum-dare-day-4.html) **Articles:**
+![](https://2.bp.blogspot.com/-DP6KM90jbFg/WE8Uyb3xDuI/AAAAAAAAQfI/9-yuyfPEOCQ6b-pWYgG-SbjOZ2aO_rG7gCLcB/s1600/IMG_4722.jpg)
+
+**Photo galleries:**
+
+- Day 1: [http://huntlus.blogspot.com.ee/2016/12/ludum-dare-37-day-1.html](http://huntlus.blogspot.com.ee/2016/12/ludum-dare-37-day-1.html)
+- Day 4: [http://huntlus.blogspot.com.ee/2016/12/ludum-dare-day-4.html](http://huntlus.blogspot.com.ee/2016/12/ludum-dare-day-4.html)
+
+**Articles:**
 
 - [http://www.cs.ut.ee/et/uudised/arvutimangude-loomise-huvilised-kogunevad-tartus](http://www.cs.ut.ee/et/uudised/arvutimangude-loomise-huvilised-kogunevad-tartus)
