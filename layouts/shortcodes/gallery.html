@@ -1,5 +1,7 @@
-
-{{ $p := .Page }}
-<div class="gallery gallery-cols-{{ .Get "cols" | default 1 }}">
-{{- print .Inner | $p.RenderString  -}}
+{{- $dir := .Get 0 | default "gallery" -}}
+<div class="gallery-grid">
+{{- range sort (.Page.Resources.Match (printf "%s/*" $dir)) "Name" }}
+  {{- $thumb := .Fill "320x320 q75" }}
+  <a href="{{ .RelPermalink }}" target="_blank"><img src="{{ $thumb.RelPermalink }}" alt="{{ replaceRE `^\d+-` `` (path.BaseName .Name) }}" loading="lazy" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}"></a>
+{{- end }}
 </div>
