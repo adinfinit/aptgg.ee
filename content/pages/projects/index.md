@@ -87,4 +87,4 @@ Ever wanted to be an astronaut? Maybe a racer? In this game you can be both! Rac
 ![Jaanipäev](/app/uploads/2016/03/jaanipaev.jpg)
 
 Are you wondering what Estonians do for fun? Wonder no more! Jaanipäev is a national holiday celebrating the summer solstice and in this browser-based sidescroller game you can experience it first hand. Test your luck and skill by jumping over pyres - a true Estonian sport!
-NB! Text is for illustrative purposes, do not try to jump over a pyre in real life![Game](http://www.acodegames.com/game/jaan/)
+NB! Text is for illustrative purposes, do not try to jump over a pyre in real life! [Game](http://www.acodegames.com/game/jaan/)
