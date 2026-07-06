@@ -15,7 +15,10 @@ params:
     text: APT Game Generator
     icon: /logo.png
     iconHeight: 36
-  description: Game development organization in Tartu, Estonia.
+  description: Archive of APT Game Generator, a game development community in Tartu, Estonia (2016–2024). No longer active.
+  homeInfoParams:
+    Title: APT Game Generator
+    Content: A game development community in Tartu, Estonia. APT GG is [no longer active](/aptgg-is-now-defunct/) — this site is an archive of the game jams, workshops and projects made between 2016 and 2024.
   defaultTheme: dark
   disableThemeToggle: true
   showReadingTime: true
