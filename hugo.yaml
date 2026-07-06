@@ -1,0 +1,83 @@
+baseURL: https://aptgg.ee
+relativeURLs: true
+languageCode: en-US
+title: ""
+theme: PaperMod
+taxonomies:
+  category: categories
+  tag: tags
+permalinks:
+  term:
+    categories: /category/:slug/
+    tags: /tag/:slug/
+params:
+  description: Game development organization in Tartu, Estonia.
+  defaultTheme: dark
+  disableThemeToggle: true
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  author:
+    name: jee7
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: Manifesto
+      url: /manifesto/
+      weight: 1
+    - name: How To Join?
+      url: /how-to-join/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Game Jam
+      url: /ludum-dare/
+      weight: 4
+    - identifier: schedules
+      name: Schedules
+      weight: 5
+    - name: Fall 2018
+      parent: schedules
+      url: /schedule-fall-2018/
+      weight: 1
+    - name: Spring 2018
+      parent: schedules
+      url: /schedule-spring-2018/
+      weight: 2
+    - name: Fall 2017
+      parent: schedules
+      url: /schedule-fall-2017/
+      weight: 3
+    - name: Spring 2017
+      parent: schedules
+      url: /schedule-spring-2017/
+      weight: 4
+    - name: Fall 2016
+      parent: schedules
+      url: /schedule-fall-2016/
+      weight: 5
+    - name: Contact
+      url: /contact/
+      weight: 6

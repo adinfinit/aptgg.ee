@@ -1,0 +1,49 @@
+/* wrap the menu instead of hidden horizontal scrolling */
+.menu {
+    flex-wrap: wrap;
+    overflow: visible;
+    white-space: normal;
+    justify-content: flex-end;
+    align-items: center;
+    row-gap: 2px;
+}
+
+/* Schedules dropdown */
+.has-submenu {
+    position: relative;
+}
+
+.has-submenu .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 10;
+    min-width: 10rem;
+    list-style: none;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 4px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.has-submenu:hover .submenu,
+.has-submenu:focus-within .submenu {
+    display: block;
+}
+
+.has-submenu .submenu li {
+    display: block;
+}
+
+.has-submenu .submenu a {
+    display: block;
+    padding: 4px 16px;
+    line-height: 2;
+}
+
+.has-submenu .submenu a:hover,
+.has-submenu .submenu a.active {
+    background: var(--tertiary);
+}
